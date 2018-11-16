@@ -21,5 +21,13 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "css-loader": "^1.0.1",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "react-hot-loader": "^4.3.12",
+    "react-router": "^4.3.1",
+    "style-loader": "^0.23.1",
+    "webpack-cli": "^3.1.2"
+  }
 }

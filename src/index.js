@@ -1,5 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React, { Component } from 'react';
+import ReactDOM, { render } from 'react-dom';
+import { Router, Route, hashHistory } from 'react-router';
 
 import App from './components/app'
 import './index.css';
